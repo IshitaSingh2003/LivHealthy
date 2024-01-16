@@ -61,7 +61,7 @@ Docker ensures a consistent environment for deployment, preventing unexpected is
 ## 🐳 Setup
 
 ### Run Locally
-1. Clone the repository: `git clone https://github.com/zakaria-narjis/Diet-Recommendation-System`
+1. Clone the repository: `git clone https://github.com/IshitaSingh2003/LivHealthy`
 2. Run Docker Compose: `docker-compose up -d --build`
 3. Open http://localhost:8501 and enjoy! 😃
 
