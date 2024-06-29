@@ -65,8 +65,4 @@ Docker ensures a consistent environment for deployment, preventing unexpected is
 2. Run Docker Compose: `docker-compose up -d --build`
 3. Open http://localhost:8501 and enjoy! 😃
 
-### Hosted Version
-Explore the hosted version on [Streamlit Cloud](https://diet-recommendation-system.streamlit.app/).
-
-
 Elevate your well-being with LivHealthy! 🌱🏋️‍♂️
