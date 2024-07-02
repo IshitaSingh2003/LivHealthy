@@ -65,4 +65,9 @@ Docker ensures a consistent environment for deployment, preventing unexpected is
 2. Run Docker Compose: `docker-compose up -d --build`
 3. Open http://localhost:8501 and enjoy! 😃
 
+## ☑️Implementation
+
+https://github.com/IshitaSingh2003/LivHealthy/assets/80634214/1d44ff09-e5cc-47d4-8356-6a2485b9c965
+
+
 Elevate your well-being with LivHealthy! 🌱🏋️‍♂️
